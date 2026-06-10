@@ -1,0 +1,12 @@
+langchain
+langgraph
+openai
+langfuse
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pandas
+scikit-learn
+python-dotenv
+requests

@@ -1,0 +1,13 @@
+claim_id,customer_id,vehicle_number,claim_date,claim_amount,claim_description
+
+CL001,C101,TS09AB1234,2025-05-01,50000,Minor rear collision
+
+CL002,C101,TS09AB1234,2025-05-01,50000,Minor rear collision
+
+CL003,C102,TS10CD4567,2025-04-15,40000,Front bumper damage
+
+CL004,C102,TS10CD4567,2025-06-01,200000,Front bumper damage severe
+
+CL005,C103,TS11EF8888,2025-03-11,45000,Rear end collision at signal
+
+CL006,C103,TS11EF8888,2025-05-20,47000,Rear-end accident while waiting at signal
