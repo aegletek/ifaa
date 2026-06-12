@@ -31,7 +31,7 @@ services:
       POSTGRES_DB: ifaa
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: manager
-      OPENAI_API_KEY: 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
+      
 
     volumes:
       - .:/app
